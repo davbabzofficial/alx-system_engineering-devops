@@ -1,0 +1,1 @@
+You can assume that the user betty will exist when we will run your script
